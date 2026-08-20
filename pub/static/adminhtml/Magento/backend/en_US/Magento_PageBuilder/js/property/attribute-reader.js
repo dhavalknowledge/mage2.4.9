@@ -1,0 +1,1 @@
+/var/www/html/magento249/vendor/magento/module-page-builder/view/adminhtml/web/js/property/attribute-reader.js

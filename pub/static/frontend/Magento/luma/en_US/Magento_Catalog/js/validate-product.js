@@ -1,0 +1,1 @@
+/var/www/html/magento249/vendor/magento/module-catalog/view/base/web/js/validate-product.js
