@@ -1,1 +1,0 @@
-/var/www/html/magento249/vendor/magento/module-checkout/view/frontend/web/js/empty-cart.js
