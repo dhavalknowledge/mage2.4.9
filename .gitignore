@@ -25,4 +25,5 @@
 /.php-cs-fixer.dist.php
 /.user.ini
 /CHANGELOG.md
-
+/app/etc
+/app/i18n
